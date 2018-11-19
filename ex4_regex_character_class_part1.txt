@@ -34,14 +34,3 @@
 
 6) Extract all numbers surrounded by word boundaries matching the condition
     30 <= number <= 70
-
-
-7) Extract all words made up of non-vowel characters
-    ignore case
-    should contain only alphabets and at least two
-    should be surrounded by word boundaries
-
-
-8) Extract all sequence of strings consisting of character: -
-    surrounded on either side by zero or more case insensitive alphabets    
-
